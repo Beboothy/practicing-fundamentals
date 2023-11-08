@@ -1,4 +1,10 @@
-
+<!-- Fetch data needed for this component -->
+<script context="module">
+    // load is required
+    export async function load(context) {
+        fetch
+    }
+</script>
 
 <div class="guides">
     <ul>
